@@ -21,6 +21,7 @@ https://youtu.be/PVqkgVMZ-vo (tkintre poga)
 https://youtu.be/_gvKDgkRrvU (bez pogas)
 
 Kods nestrādā github-codespace, jo codespace tiek mitināti uz Linux, bet kods strādā tikai uz windows platformām.
+Izmantojiet open_app.py lai uzsāktu programmu!
 
 
 
