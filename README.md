@@ -18,7 +18,7 @@ import time - izmnatots kodā lai nopauzētu kodu uz pāris sekundēm, lai nebut
 
 ## 3. Izmantošanas metodes
 
-https://youtu.be/PVqkgVMZ-vo (tkintre poga)
+https://youtu.be/PVqkgVMZ-vo (tkinter poga)
 https://youtu.be/_gvKDgkRrvU (bez pogas)
 
 Kods nestrādā github-codespace, jo codespace tiek mitināti uz Linux, bet kods strādā tikai uz windows platformām.
