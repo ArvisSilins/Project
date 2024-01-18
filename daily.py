@@ -31,10 +31,10 @@ anime_to_watch = []
 while True:
     try:
         i = 0
-        for i in range(0, 20):
+        for i in range(0, 50):
             time.sleep(1) 
             driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-        #loop = driver.find_elements(By.XPATH, "//div[@class='results cover']")
+        
         find = WebDriverWait(driver, 10).until(EC.presence_of_all_elements_located((By.XPATH, "//div[@class='media-card']/a[@class='cover']")))
         
         anime_links = [link.get_attribute("href") for link in find]
@@ -95,5 +95,4 @@ while True:
     except NoSuchElementException:
         print("No more anime to scrape.")
         break
-    #next_anime = find.find_element(By.XPATH, "following-sibling::*[1]")
 driver.quit()
