@@ -3,6 +3,7 @@
 Šī projekta galvenais uzdevums bija radīt programmu, kas varētu sastādīt sarakstu ar anime, kurus es varētu skatīties un man visdrīzāk arī patiktu. Lai to izdarītu ši programma savāc datus no mājaslapas "Anilist", kur ir pieejami dažādi dati par lielu klāstu anime. Sākot ar anime, kam reitingi bija viss augstākie, un ejot dilstošā sēcībā programma iegūst datus par to vidējiem retingiem un kādi žanri tiem ir. Tad, atkarībā no žanriem un retinga, anime teik pievienoti sarakstam.
 
 ## ![saraksts](anime_saraksts.png) 
+(saraksts pēc dažām minūtēm)
 
 ## 2.  Izmantotās bibliotēkas 
 
